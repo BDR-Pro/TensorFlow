@@ -73,3 +73,8 @@ Remember, whether you're here to build the next big algorithm or just trying to 
 ![alt text](cnn.png)
 
 ![alt text](detailcnn.png)
+
+![Long_Short-Term_Memory svg](https://github.com/BDR-Pro/TensorFlow/assets/91114465/f217d3fe-1b21-4093-ba47-35c082904019)
+
+
+
